@@ -22,6 +22,7 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
+                Welding and metal works:
               They dwell in the sea and the sea.. <br></br>
               They dwell in the sea and the sea..
               </p>
@@ -32,6 +33,7 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
+                Civil and Architectural Work:
               They dwell in the sea and the sea.. <br></br>
               They dwell in the sea and the sea.
               </p>
@@ -42,6 +44,7 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
+                Plumbing and Electrical works:
               They dwell in the sea and the sea. <br></br>
               They dwell in the sea and the sea.
               </p>
@@ -52,6 +55,7 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
+                Surveying works, landscaping and compound designing:
               They dwell in the sea and the sea. <br></br>
               They dwell in the sea and the sea.
               </p>
