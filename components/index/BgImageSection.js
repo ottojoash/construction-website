@@ -18,11 +18,12 @@ export default function BgImageSection() {
       <br></br>
       <Container fluid className="text-center text-white ">
         <h1 className="display-5 text-uppercase">
-          Lorem ipsum dolor imperdiet massa
+        I AM VERY HAPPY WITH THE MASS FINANCING
         </h1>
         <p style={{ width: "50em", margin: "0 auto" }}>
-          Amet mauris commodo quis imperdiet massa. Congue mauris rhoncus aenean
-          vel elit scelerisque. Enim nulla aliquet porttitor lacus. Adipiscing
+        It is interesting to know who will invest the mass. 
+        Prepare the rice cooker or the chocolate maker. 
+        In fact, there are no airline trucks. You will find
         </p>
         <br></br>
         <br></br>

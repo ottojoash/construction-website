@@ -19,30 +19,30 @@ export default function IntroSection() {
     >
       <Fade left cascade>
         <div className="detached-heading text-center display-6">
-          commodo massa. dolore aliqua.
+        Who would be interested?.
         </div>
       </Fade>
       <Container fluid>
         <Fade left cascade>
           <Row>
             <Col sm={6}>
-              <h1 className="display-3">Lorem ipsum dolor</h1>
-              <strong>Eiusmod tempor incididunt ut labore</strong>
+              <h1 className="display-3">Thank you very much</h1>
+              <strong>They fall in the same time as labor</strong>
               <br></br>
               <br></br>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Et
-                magnis dis parturient montes nascetur ridiculus mus mauris
-                vitae. Nec sagittis
+              It is important to take care of the patient, to be followed by the patient, 
+              but it will happen at such a time that there is a lot of work and pain. 
+              And the mountains will give birth to a great push, 
+              and the ridiculous mouse of life will be born. Nor arrows
               </p>
               <br></br>
               <p>
-                Imperdiet massa tincidunt nunc pulvinar sapien et. Consectetur
-                adipiscing elit pellentesque habitant morbi tristique senectus
-                et netus. Amet mauris commodo quis imperdiet massa. Congue
-                mauris rhoncus aenean vel elit scelerisque. Enim nulla aliquet
-                porttitor lacus. Adipiscing.
+              The mass of developers is now on the smart phone.
+              Consectetutur adipiscing elit pellentesque inhabitants of the disease of old age and netus.
+              It is interesting to know who will invest the mass. 
+              Prepare the rice cooker or the chocolate maker.
+              In fact, there are no airline trucks. You will find
               </p>
               <button className="button">
                 <Link href={"/projects"}>

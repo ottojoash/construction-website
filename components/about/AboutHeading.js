@@ -5,7 +5,7 @@ export default function AboutHeading() {
     <section className="about-text pt-4">
       <Container fluid style={{ width: "80%" }}>
         <div className="display-3">
-          Et tempore assumenda nam deserunt rerum eos.
+         Hello World.
         </div>
       </Container>
     </section>
