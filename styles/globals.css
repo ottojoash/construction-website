@@ -261,6 +261,9 @@ section {
   margin-bottom: 2em;
 }
 
+.h5{
+  font-weight: bold;
+}
 .dropdown-menu {
   width: 30vw !important;
   height: 50vh !important;
@@ -331,7 +334,7 @@ section {
     background-position-x: 50%;
 
   }
-
+  
 
 
   .dropdown-menu {
