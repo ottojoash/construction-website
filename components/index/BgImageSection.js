@@ -36,7 +36,7 @@ export default function BgImageSection() {
                   className="CardFront flip-card"
                 >
                   <div>
-                    <h4>pellentesque habitant morbi</h4>
+                    <h4>Construction</h4>
                     <hr></hr>
                   </div>
                 </div>
@@ -45,9 +45,8 @@ export default function BgImageSection() {
                   className="CardBack flip-card"
                 >
                   <p>
-                    Imperdiet massa tincidunt nunc pulvinar sapien et.
-                    Consectetur adipiscing elit pellentesque habitant morbi
-                    tristique senectus et netus.
+                  The mass of developers is now on the smart phone.
+                  Consectetutur adipiscing elit pellentesque 
                   </p>
                 </div>
               </ReactCardFlip>
@@ -61,7 +60,7 @@ export default function BgImageSection() {
                   className="CardFront flip-card"
                 >
                   <div>
-                    <h4>adipiscing elit pellentesque</h4>
+                    <h4>Renovating</h4>
                     <hr></hr>
                   </div>
                 </div>
@@ -70,9 +69,8 @@ export default function BgImageSection() {
                   className="CardBack flip-card"
                 >
                   <p>
-                    Imperdiet massa tincidunt nunc pulvinar sapien et.
-                    Consectetur adipiscing elit pellentesque habitant morbi
-                    tristique senectus et netus.
+                  The mass of developers is now on the smart phone. 
+                  Consectetutur adipiscing elit pellentesque inhabitants of
                   </p>
                 </div>
               </ReactCardFlip>
