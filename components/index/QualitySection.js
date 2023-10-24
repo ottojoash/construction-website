@@ -22,8 +22,8 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea.. <br></br>
+              They dwell in the sea and the sea..
               </p>
             </Col>
             <Col className="quality-steps">
@@ -32,8 +32,8 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea.. <br></br>
+              They dwell in the sea and the sea.
               </p>
             </Col>
             <Col className="quality-steps">
@@ -42,8 +42,8 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea. <br></br>
+              They dwell in the sea and the sea.
               </p>
             </Col>
             <Col className="quality-steps">
@@ -52,8 +52,8 @@ export default function QualitySection() {
               <br></br>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea. <br></br>
+              They dwell in the sea and the sea.
               </p>
             </Col>
           </Row>

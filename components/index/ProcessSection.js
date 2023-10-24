@@ -28,8 +28,8 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea <br></br>
+              They dwell in the sea and the sea
               </p>
             </Col>
             <Col className="process-steps">
@@ -41,8 +41,8 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea. <br></br>
+              They dwell in the sea and the sea.
               </p>
             </Col>
             <Col className="process-steps">
@@ -54,8 +54,8 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea. <br></br>
+              They dwell in the sea and the sea.
               </p>
             </Col>
             <Col className="process-steps">
@@ -67,8 +67,8 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-                Habitant morbi tristique et netus. <br></br>
-                Amet mauris commodo quis imperdiet massa.
+              They dwell in the sea and the sea <br></br>
+              They dwell in the sea and the sea
               </p>
             </Col>
           </Row>
