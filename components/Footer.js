@@ -5,7 +5,7 @@ export default function Footer() {
     <footer>
       <Container>
         <br></br>
-        ©Thomas Basham
+        ©
         <br></br>
         <br></br>
         <br></br>

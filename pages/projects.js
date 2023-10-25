@@ -24,6 +24,7 @@ export default function Projects(props) {
     patio,
     orangeCouch,
     patio,
+    
   ];
 
   const imageGalleryData = images.map((image) => {
