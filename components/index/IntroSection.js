@@ -26,23 +26,25 @@ export default function IntroSection() {
         <Fade left cascade>
           <Row>
             <Col sm={6}>
-              <h1 className="display-3">Thank you very much</h1>
-              <strong>They fall in the same time as labor</strong>
+              <h1 className="display-3">Why Choose Us</h1>
+              <strong>We deliver Quality Services</strong>
               <br></br>
               <br></br>
               <p>
-              It is important to take care of the patient, to be followed by the patient, 
-              but it will happen at such a time that there is a lot of work and pain. 
-              And the mountains will give birth to a great push, 
-              and the ridiculous mouse of life will be born. Nor arrows
+              Understanding Customer Needs: Begin by thoroughly understanding your customers' 
+              needs and expectations. This requires active listening and clear communication.
+              Service Design: Develop a well-thought-out service delivery plan that aligns with 
+              customer requirements and market standards.
+              Competent Staff: Employ and train a skilled and knowledgeable workforce.
+               Ensure they have the necessary tools, resources, and training to excel in their roles.
+
               </p>
               <br></br>
               <p>
-              The mass of developers is now on the smart phone.
-              Consectetutur adipiscing elit pellentesque inhabitants of the disease of old age and netus.
-              It is interesting to know who will invest the mass. 
-              Prepare the rice cooker or the chocolate maker.
-              In fact, there are no airline trucks. You will find
+              Consistency: Maintain a high level of consistency in service delivery. 
+              Customers should experience the same level of quality each time they interact with your business.
+              Responsiveness: Be prompt and responsive to customer inquiries and concerns.
+               Quick problem resolution is essential for quality service
               </p>
               <button className="button">
                 <Link href={"/projects"}>

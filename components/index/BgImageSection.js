@@ -18,12 +18,11 @@ export default function BgImageSection() {
       <br></br>
       <Container fluid className="text-center text-white ">
         <h1 className="display-5 text-uppercase">
-        I AM VERY HAPPY WITH THE MASS FINANCING
+        BENEFITS OF CHOOSING US AS YOUR PARTNERS
         </h1>
         <p style={{ width: "50em", margin: "0 auto" }}>
-        It is interesting to know who will invest the mass. 
-        Prepare the rice cooker or the chocolate maker. 
-        In fact, there are no airline trucks. You will find
+        Expertise and Specialization: Selecting OTES specializes in the specific type of engineering work you require. 
+        Whether it's civil, mechanical,electrical, or any other field.
         </p>
         <br></br>
         <br></br>
@@ -45,8 +44,7 @@ export default function BgImageSection() {
                   className="CardBack flip-card"
                 >
                   <p>
-                  The mass of developers is now on the smart phone.
-                  Consectetutur adipiscing elit pellentesque 
+                  Optimizing Structural Design for Sustainable and Resilient Building Construction
                   </p>
                 </div>
               </ReactCardFlip>
@@ -69,8 +67,7 @@ export default function BgImageSection() {
                   className="CardBack flip-card"
                 >
                   <p>
-                  The mass of developers is now on the smart phone. 
-                  Consectetutur adipiscing elit pellentesque inhabitants of
+                  Revitalizing Infrastructure: Enhancing Efficiency and Sustainability through Engineering Renovation
                   </p>
                 </div>
               </ReactCardFlip>

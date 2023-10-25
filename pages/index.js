@@ -13,9 +13,9 @@ export default function Home() {
         <IntroSection />
         <BgImageSection />
         <ProcessSection />
-        <QualitySection />
+        {/* <QualitySection /> */}
         <PartialAboutSection />
-        <PartialContactSection />
+        {/* <PartialContactSection /> */}
       </div>
     </>
   );

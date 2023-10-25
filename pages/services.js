@@ -8,7 +8,6 @@ export default function servicesPage() {
         <QualitySection />
         <AboutSection />
         <ProcessSection />
-        <QualitySection />
       </div>
     </>
   );

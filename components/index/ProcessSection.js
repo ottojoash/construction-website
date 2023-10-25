@@ -28,8 +28,7 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-              They dwell in the sea and the sea <br></br>
-              They dwell in the sea and the sea
+              Contact Us <br></br>
               </p>
             </Col>
             <Col className="process-steps">
@@ -41,8 +40,7 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
+              Book An Appointment <br></br>
               </p>
             </Col>
             <Col className="process-steps">
@@ -54,8 +52,7 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
+              Document what is required <br></br>
               </p>
             </Col>
             <Col className="process-steps">
@@ -67,8 +64,7 @@ export default function ProcessSection() {
               </h6>
               <br></br>
               <p>
-              They dwell in the sea and the sea <br></br>
-              They dwell in the sea and the sea
+             Confirm Appointment <br></br>
               </p>
             </Col>
           </Row>
