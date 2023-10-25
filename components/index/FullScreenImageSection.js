@@ -5,9 +5,9 @@ export default function FullScreenImageSection() {
     <section className="full-screen-image-section">
       <Container fluid style={{ width: "50%", paddingTop: "10%" }}>
         <div className="display-3 text-white cover-text">
-          Amet mauris commodo quis.
+          Together we Can Improve.
           <br></br>
-          Enim nulla aliquet. porttitor lacus. Adipiscin.
+          
         </div>
       </Container>
     </section>
