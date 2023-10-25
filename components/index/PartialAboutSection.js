@@ -24,25 +24,23 @@ export default function PartialAboutSection() {
           </Col>
           <Col sm={4}>
             <div  className="display-6">
-              Dis parturient montes nascetur ridiculus
+              Our Company Profile
             </div>
             <br></br>
             <hr></hr>
             <br></br>
             <div >
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Et
-                magnis dis parturient montes nascetur ridiculus mus mauris
-                vitae. Nec sagittis
+              At OTES, we are a leading engineering firm dedicated to providing innovative solutions and top-quality engineering services.
+              With a strong commitment to excellence, we have been at the forefront of the industry for 8 years +, 
+              serving clients across various sectors.
               </p>
               <br></br>
               <p>
-                Imperdiet massa tincidunt nunc pulvinar sapien et. Consectetur
-                adipiscing elit pellentesque habitant morbi tristique senectus
-                et netus. Amet mauris commodo quis imperdiet massa. Congue
-                mauris rhoncus aenean vel elit scelerisque. Enim nulla aliquet
-                porttitor lacus. Adipiscing
+              Our Mission:
+              Our mission is to deliver cutting-edge engineering solutions that meet and exceed our clients' expectations.
+               We are driven by a passion for problem-solving, creativity, and a dedication to sustainability.
+              We take pride in contributing to the success of our clients and the betterment of society through our engineering expertise.
               </p>
             </div>
             <button className="button">

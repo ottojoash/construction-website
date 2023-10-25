@@ -6,7 +6,7 @@ export default function servicesPage() {
     <>
       <div>
         <QualitySection />
-        <AboutSection />
+        {/* <AboutSection /> */}
         <ProcessSection />
       </div>
     </>

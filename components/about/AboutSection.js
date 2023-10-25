@@ -17,18 +17,14 @@ export default function AboutSection() {
             />
           </Col>
           <Col sm={6}>
-            <div className="display-6">Dis parturient montes.</div>
+            <div className="display-6">What Sets Us Apart</div>
             <br></br>
             <div className="ml-5 pl-5">
               <ul>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Amet mauris commodo quis imperdiet massa.</li>
-                <li>Enim nulla aliquet porttitor lacus.</li>
-                <li>Imperdiet massa tincidunt nunc pulvinar sapien.</li>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Amet mauris commodo quis imperdiet massa.</li>
-                <li>Enim nulla aliquet porttitor lacus.</li>
-                <li>Imperdiet massa tincidunt nunc pulvinar sapien.</li>
+                <li>Expert Team: Our team of highly skilled and experienced engineers is the cornerstone of our success. </li>
+                <li>Innovation: We embrace the latest technologies and methodologies to stay ahead in a rapidly evolving industry. </li>
+                <li>Client-Centric Approach: We prioritize the needs of our clients. Our collaborative approach means we work closely with you to tailor solutions that perfectly align with your project goals</li>
+                <li>Sustainability: We are committed to environmentally responsible engineering. Our focus on sustainability means we design solutions that have a positive impact on both our clients and the planet.</li>
               </ul>
               {/* <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

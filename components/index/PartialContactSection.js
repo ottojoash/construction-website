@@ -7,7 +7,7 @@ export default function PartialContactSection() {
         <div className="display-5 text-center text-uppercase ">Contact Us</div>
         <br></br>
         <p className="text-center">
-          Congue mauris rhoncus aenean vel elit scelerisque? Enim nulla aliquet.
+        Get in Touch with Us
         </p>
         <ContactForm />
       </Container>
