@@ -7,7 +7,7 @@ export default function AboutBgImageSection() {
   return (
     <section className="about-bg-image-section">
       <Container fluid className=" " style={{ width: "80%" }}>
-        <div className="display-3 about-heading">Our Team</div>
+        {/* <div className="display-3 about-heading">Our Team</div> */}
       </Container>
     </section>
   );

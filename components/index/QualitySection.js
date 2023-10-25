@@ -23,8 +23,6 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Welding and metal works:
-              They dwell in the sea and the sea.. <br></br>
-              They dwell in the sea and the sea..
               </p>
             </Col>
             <Col className="quality-steps">

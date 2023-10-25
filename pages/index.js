@@ -15,7 +15,7 @@ export default function Home() {
         <ProcessSection />
         {/* <QualitySection /> */}
         <PartialAboutSection />
-        <PartialContactSection />
+        {/* <PartialContactSection /> */}
       </div>
     </>
   );
