@@ -18,9 +18,9 @@ export default function IntroSection() {
       }}
     >
       <Fade left cascade>
-        <div className="detached-heading text-center display-6">
+        {/* <div className="detached-heading text-center display-6">
         Who would be interested?.
-        </div>
+        </div> */}
       </Fade>
       <Container fluid>
         <Fade left cascade>
