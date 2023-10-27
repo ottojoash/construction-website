@@ -7,7 +7,7 @@ export default function Footer() {
       <Container>
         <br /><br />
         <div>
-          © Oscar Truth
+          © Oscar Truth Engineering Services
           <br /><br />
           <div>
             {/* Social Media Links */}
