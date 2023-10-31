@@ -7,7 +7,7 @@ export default function Layout({ children }) {
   return (
     <div>
       <Head>
-        <title>Construction Website</title>
+        <title>Oscar Truth Engineering Services</title>
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Building futures together" />
       </Head>
