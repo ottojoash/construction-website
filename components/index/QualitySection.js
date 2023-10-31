@@ -1,7 +1,13 @@
 import { Row, Col, Container } from "react-bootstrap";
-import { GiLaurelsTrophy, GiCheckMark } from "react-icons/gi";
-import { BiHeartCircle, BiFingerprint } from "react-icons/bi";
+import { GiLaurelsTrophy, GiCheckMark, GiHouse } from "react-icons/gi";
+import { BiHeartCircle, BiFingerprint, BiHeartSquare, BiBasket } from "react-icons/bi";
 import { Zoom } from "react-reveal";
+import { MdConstruction } from "react-icons/md";
+import { FaWrench, FaBolt } from "react-icons/fa";
+import { FaDraftingCompass, FaMapMarkerAlt } from "react-icons/fa";
+import { FaRulerCombined } from "react-icons/fa";
+
+
 
 export default function QualitySection() {
   return (
@@ -17,46 +23,55 @@ export default function QualitySection() {
             <br></br>
             <br></br>
             <Col className="quality-steps">
-              <BiFingerprint size={80} />
+              <MdConstruction size={80} />
               <br></br>
               <br></br>
               <br></br>
               <p>
                 Welding and metal works:
               </p>
+              <small>
+                Providing top-notch welding and metal fabrication services, ensuring strength and durability in all our constructions.
+              </small>
             </Col>
             <Col className="quality-steps">
-              <BiHeartCircle size={80} />
+              <GiHouse size={80} />
+              <FaRulerCombined size={30} />
               <br></br>
               <br></br>
               <br></br>
               <p>
                 Civil and Architectural Work:
-              They dwell in the sea and the sea.. <br></br>
-              They dwell in the sea and the sea.
               </p>
+              <small>
+                Delivering innovative architectural designs and robust civil engineering solutions to create sustainable and aesthetically pleasing structures.
+              </small>
             </Col>
             <Col className="quality-steps">
-              <GiCheckMark size={80} />
+              <FaWrench size={80} />
+              <FaBolt size={30} />
               <br></br>
               <br></br>
               <br></br>
               <p>
                 Plumbing and Electrical works:
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
               </p>
+              <small>
+                Offering comprehensive plumbing and electrical services, ensuring all installations are safe, efficient, and reliable.
+              </small>
             </Col>
             <Col className="quality-steps">
-              <GiLaurelsTrophy size={80} />
+              <FaDraftingCompass size={80} />
+              <FaMapMarkerAlt size={30} />
               <br></br>
               <br></br>
               <br></br>
               <p>
                 Surveying works, landscaping and compound designing:
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
               </p>
+              <small>
+                Providing precise surveying services and creative landscaping designs to transform spaces into functional and appealing environments.
+              </small>
             </Col>
           </Row>
         </Zoom>

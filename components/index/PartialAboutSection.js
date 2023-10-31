@@ -2,7 +2,7 @@ import { Row, Col, Container, Form, TextArea, Button } from "react-bootstrap";
 import Image from "next/image";
 import Link from "next/link";
 import { BsArrowUpRight } from "react-icons/bs";
-import team from "/public/stock/team.jpg";
+import team from "/public/stock/sky.jpg";
 
 export default function PartialAboutSection() {
   return (

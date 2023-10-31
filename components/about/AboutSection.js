@@ -1,7 +1,7 @@
 import { Row, Col, Container } from "react-bootstrap";
 import Image from "next/image";
 
-import team from "/public/stock/team.jpg";
+import team from "/public/stock/Oscar.jpg";
 
 export default function AboutSection() {
   return (
