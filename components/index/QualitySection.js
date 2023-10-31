@@ -1,7 +1,13 @@
 import { Row, Col, Container } from "react-bootstrap";
-import { GiLaurelsTrophy, GiCheckMark } from "react-icons/gi";
-import { BiHeartCircle, BiFingerprint, BiHeartSquare } from "react-icons/bi";
+import { GiLaurelsTrophy, GiCheckMark, GiHouse } from "react-icons/gi";
+import { BiHeartCircle, BiFingerprint, BiHeartSquare, BiBasket } from "react-icons/bi";
 import { Zoom } from "react-reveal";
+import { MdConstruction } from "react-icons/md";
+import { FaWrench, FaBolt } from "react-icons/fa";
+import { FaDraftingCompass, FaMapMarkerAlt } from "react-icons/fa";
+import { FaRulerCombined } from "react-icons/fa";
+
+
 
 export default function QualitySection() {
   return (
@@ -17,7 +23,7 @@ export default function QualitySection() {
             <br></br>
             <br></br>
             <Col className="quality-steps">
-              <BiHeartSquare size={80} />
+              <MdConstruction size={80} />
               <br></br>
               <br></br>
               <br></br>
@@ -26,7 +32,8 @@ export default function QualitySection() {
               </p>
             </Col>
             <Col className="quality-steps">
-              <BiHeartCircle size={80} />
+              <GiHouse size={80} />
+              <FaRulerCombined size={30} />
               <br></br>
               <br></br>
               <br></br>
@@ -37,7 +44,8 @@ export default function QualitySection() {
               </p>
             </Col>
             <Col className="quality-steps">
-              <GiCheckMark size={80} />
+              <FaWrench size={80} />
+              <FaBolt size={30} />
               <br></br>
               <br></br>
               <br></br>
@@ -48,7 +56,8 @@ export default function QualitySection() {
               </p>
             </Col>
             <Col className="quality-steps">
-              <GiLaurelsTrophy size={80} />
+              <FaDraftingCompass size={80} />
+              <FaMapMarkerAlt size={30} />
               <br></br>
               <br></br>
               <br></br>
