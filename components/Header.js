@@ -11,16 +11,12 @@ export default function Header() {
   return (
     <header>
       <Navbar collapseOnSelect expand="lg" bg="white" variant="light">
-        <Container fluid style={{ width: "50vw" }}>
+        <Container >
           {/* Replace the logo with the name */}
-          <Navbar.Brand href="/">Oscar Truth</Navbar.Brand>
+          <Navbar.Brand fluid style={{width: "50vw"}}href="/">Oscar Truth Engineering Services</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav
-              className="justify-content-between"
-              style={{ width: "100%" }}
-              activeKey={location}
-            >
+            <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about" className="d-flex align-items-center">
                 <BsInfoCircle /> &nbsp; About
