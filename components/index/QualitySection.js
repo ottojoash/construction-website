@@ -30,6 +30,9 @@ export default function QualitySection() {
               <p>
                 Welding and metal works:
               </p>
+              <small>
+                Providing top-notch welding and metal fabrication services, ensuring strength and durability in all our constructions.
+              </small>
             </Col>
             <Col className="quality-steps">
               <GiHouse size={80} />
@@ -39,9 +42,10 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Civil and Architectural Work:
-               <br></br>
-              
               </p>
+              <small>
+                Delivering innovative architectural designs and robust civil engineering solutions to create sustainable and aesthetically pleasing structures.
+              </small>
             </Col>
             <Col className="quality-steps">
               <FaWrench size={80} />
@@ -51,9 +55,10 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Plumbing and Electrical works:
-               <br></br>
-             
               </p>
+              <small>
+                Offering comprehensive plumbing and electrical services, ensuring all installations are safe, efficient, and reliable.
+              </small>
             </Col>
             <Col className="quality-steps">
               <FaDraftingCompass size={80} />
@@ -63,9 +68,10 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Surveying works, landscaping and compound designing:
-              <br></br>
-              
               </p>
+              <small>
+                Providing precise surveying services and creative landscaping designs to transform spaces into functional and appealing environments.
+              </small>
             </Col>
           </Row>
         </Zoom>

@@ -6,8 +6,7 @@ export default function Footer() {
     <footer>
       <Container>
         <br /><br />
-        <div>
-          © Oscar Truth Engineering Services
+        <div style={{ color: 'darkblue' }}>© Oscar Truth Engineering Services
           <br /><br />
           <div>
             {/* Social Media Links */}
