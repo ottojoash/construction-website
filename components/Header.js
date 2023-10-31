@@ -13,7 +13,11 @@ export default function Header() {
       <Navbar collapseOnSelect expand="lg" bg="white" variant="light">
         <Container >
           {/* Replace the logo with the name */}
-          <Navbar.Brand fluid style={{width: "50vw"}}href="/">Oscar Truth Engineering Services</Navbar.Brand>
+          <Navbar.Brand href="/" style={{ display: 'flex', alignItems: 'center' }}>
+  <span style={{ fontWeight: 'bold', marginRight: '5px' }}>OTES</span>
+  <span style={{ fontSize: 'smaller',width: "50vw" }}>Oscar Truth Engineering Services</span>
+</Navbar.Brand>
+
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">

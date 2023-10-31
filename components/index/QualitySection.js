@@ -1,6 +1,6 @@
 import { Row, Col, Container } from "react-bootstrap";
 import { GiLaurelsTrophy, GiCheckMark } from "react-icons/gi";
-import { BiHeartCircle, BiFingerprint } from "react-icons/bi";
+import { BiHeartCircle, BiFingerprint, BiHeartSquare } from "react-icons/bi";
 import { Zoom } from "react-reveal";
 
 export default function QualitySection() {
@@ -17,7 +17,7 @@ export default function QualitySection() {
             <br></br>
             <br></br>
             <Col className="quality-steps">
-              <BiFingerprint size={80} />
+              <BiHeartSquare size={80} />
               <br></br>
               <br></br>
               <br></br>
@@ -32,8 +32,8 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Civil and Architectural Work:
-              They dwell in the sea and the sea.. <br></br>
-              They dwell in the sea and the sea.
+               <br></br>
+              
               </p>
             </Col>
             <Col className="quality-steps">
@@ -43,8 +43,8 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Plumbing and Electrical works:
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
+               <br></br>
+             
               </p>
             </Col>
             <Col className="quality-steps">
@@ -54,8 +54,8 @@ export default function QualitySection() {
               <br></br>
               <p>
                 Surveying works, landscaping and compound designing:
-              They dwell in the sea and the sea. <br></br>
-              They dwell in the sea and the sea.
+              <br></br>
+              
               </p>
             </Col>
           </Row>
