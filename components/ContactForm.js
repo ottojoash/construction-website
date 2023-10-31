@@ -1,5 +1,4 @@
 import { Form } from "react-bootstrap";
-
 import emailjs from "emailjs-com";
 import Swal from "sweetalert2";
 
@@ -56,6 +55,12 @@ export default function ContactForm() {
         placeholder="Message…"
         required
       />
+
+      {/* Adding contact information from the image */}
+      <h5>Contact Information</h5>
+      <p>Ham Towers Opp: Main Gate Makerere University</p>
+      <p>Phone: +256 200 902 358 / +256 349 507 505</p>
+
       <button type="submit">Submit</button>
     </Form>
   );
